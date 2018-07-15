@@ -1,7 +1,7 @@
 # Deployment Laravel using Docker
 This repo contains a Laravel installation setup to use Docker to create a development environment. This repo can be used as a starting point for developing Laravel apps with Docker.
 
-You can check this medium [post](https://medium.com/) out for more information.
+You can check this medium [post](https://medium.com/@danairwanda/laravel-teknologi-virtualisasi-menggunakan-docker-f263a547a555) out for more information.
 
 This setup contains;
 
